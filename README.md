@@ -3,7 +3,7 @@ This application has been designed for the purpose of learning CRUD Operations u
 
 
 Create a Spring Boot Application as per the requirements below:
-a.	The application should store in a database the employee details like Employee ID’ , ‘Employee Name’ , ‘Employee Email’ and ‘Location’. (Hint: Map’s key can be ‘Employee ID’ and Value can be the Employee Object)
+a.	The application should store in a database the employee details like Employee ID’ , ‘Employee Name’ , ‘Employee Email’ and ‘Location’.
 b.	The application should support all 4 operations of REST like:
   1.GET – using this the client should be able to get details of all registered employees and also be able to get employee details based on Employee ID which can be passed as a Path Parameter
   2.	POST – using this method the client should be able to save an Employees details into the Map
